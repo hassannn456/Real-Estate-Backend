@@ -1,0 +1,9 @@
+{
+    "env":{
+        "DB_USER": "hassan",
+        "DB_PASSWORD": "hassan",
+        "DB_NAME": "real-estate",
+        "GOOGLE_API_KEY": "AIzaSyDgLmMpKCzveJf1_yuA0fUzzhy0WRChvZA",
+        "JWT_KEY" : "supersecret_dont_share"
+    }
+}
